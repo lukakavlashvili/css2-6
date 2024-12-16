@@ -1,0 +1,198 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.fullconteiner {
+  padding: 96px;
+  background: #e4ebff;
+  width: 1640px;
+  height: 2344px;
+  margin: 0 auto;
+  margin-top: 64px;
+}
+
+.childconteiner {
+  padding: 96px 0px;
+  width: 1280px;
+  height: 2152px;
+  display: block;
+  background: #fff;
+  margin: 0 auto;
+}
+
+.Features {
+  color: #6941c6;
+  text-align: center;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.Analytics {
+  color: #181d27;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 12px;
+}
+
+.Powerful {
+  color: #535862;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 32px;
+}
+
+.mesage {
+  padding: 12px;
+  margin-left: 32px;
+  margin-top: 185px;
+}
+
+.Share {
+  color: #181d27;
+  font-size: 30px;
+  font-weight: 600;
+  margin-left: 32px;
+  margin-top: 20px;
+  max-width: 500px;
+}
+
+.Whether {
+  color: #535862;
+  font-size: 18px;
+  font-weight: 400;
+  width: 472px;
+  margin-left: 32px;
+  margin-top: 16px;
+}
+
+.full_first {
+  margin-top: 32px;
+}
+
+.circle {
+  width: 28px;
+  height: 28px;
+  border-radius: 9999px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 48px;
+}
+
+.Leverage {
+  color: #535862;
+  font-size: 18px;
+  font-weight: 400;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 12px;
+}
+
+.Always {
+  margin-top: 20px;
+}
+
+.fullmax {
+  max-width: 472px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.photo {
+  width: 753px;
+  height: 501px;
+  vertical-align: middle;
+  display: inline-block;
+  margin-left: 51px;
+  margin-top: 96px;
+}
+
+.thunder {
+  padding: 12px;
+  display: inline-block;
+  border-radius: 9999px;
+  background: #f4ebff;
+}
+
+.photo2 {
+  width: 753px;
+  height: 501px;
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: 96px;
+}
+
+.Deliver {
+  color: #181d27;
+  font-size: 30px;
+  font-weight: 600;
+  vertical-align: middle;
+  margin-top: 20px;
+}
+
+.thunderdiv {
+    max-width: 426px;
+    display: inline-block;
+    margin-left: 96px;
+    vertical-align: middle;
+    margin-top: 144px;
+}
+
+.customer {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 16px;
+}
+
+.circle2 {
+    max-width: 28px;
+    max-height: 28px;
+    border-radius: 9999px;
+    display: inline-block;
+    vertical-align: middle;
+   
+}
+
+.keep {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+}
+
+.keepfull {
+    vertical-align: middle;
+    margin-top: 32px;
+}
+
+.okey {
+    margin-top: 20px;
+}
+
+.photo3 {
+    max-width: 752px;
+  width: 100%;
+  vertical-align: middle;
+  display: inline-block;
+  margin-left: 88px;
+}
+
+.alll {
+   vertical-align: middle;
+   display: inline-block;
+}
+
+
+.Leverage2 {
+  color: #535862;
+  font-size: 16px;
+  font-weight: 400;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 12px;
+}
